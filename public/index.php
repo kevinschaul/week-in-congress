@@ -10,11 +10,17 @@
 
 <div id='target-events'></div>
 <script id='template-events' type='text/template'>
-<h2>This Week in Congress</h2>
+<% _.each(data, function(d) { %>
+  <div class='event'>
+    <span class='label'>What:</span> <%= d.description %> </br>
+    <span class='label'>When:</span> <%= d.whenMoment.calendar() %> </br>
+  </div>
+<% }); %>
 </script>
 
 <script src="lib/jquery-1.10.2.min.js" type="text/javascript" charset="utf-8"></script>
 <script src="lib/underscore-min.js" type="text/javascript" charset="utf-8"></script>
+<script src="lib/moment.min.js" type="text/javascript" charset="utf-8"></script>
 <script src="js/base.js" type="text/javascript" charset="utf-8"></script>
 </body>
 </html>

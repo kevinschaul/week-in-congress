@@ -1,4 +1,21 @@
 body {
+  margin: 0px auto;
   max-width: 630px;
+  font-family: arial, sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.event {
+  margin: 8px 0;
+  padding: 4px 0;
+  border-bottom: 1px dotted #ccc;
+
+  .label {
+    font-weight: bold;
+  }
+}
+.event:last-child {
+  border-bottom: none;
 }
 

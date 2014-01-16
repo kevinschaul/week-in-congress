@@ -8,7 +8,7 @@ var graphic = {
     $.support.cors = true;
 
     self.initTemplate();
-    self.runTemplate();
+    self.getEvents();
   },
 
   initTemplate: function() {
@@ -17,6 +17,37 @@ var graphic = {
     self.$templateEvents = $('#template-events');
     self.$targetEvents = $('#target-events');
     self.templateEvents = _.template(self.$templateEvents.html());
+  },
+
+  getEvents: function() {
+    var self = this;
+
+    var url = 'events.json';
+    $.getJSON(url, function(data) {
+      self.formatEvents(data);
+    });
+  },
+
+  formatEvents: function(data) {
+    var self = this;
+
+    _.each(data, function(d) {
+      console.log(d);
+      d.whenMoment = moment(d.when);
+    });
+
+    var now = moment();
+    var weekFromNow = now.add('days', 7);
+    data = _.filter(data, function(d) {
+      return d.whenMoment <= weekFromNow;
+    });
+
+    data = _.sortBy(data, function(d) {
+      return d.whenMoment;
+    });
+
+    var templateData = {data: data};
+    self.runTemplate(templateData);
   },
 
   runTemplate: function(data) {

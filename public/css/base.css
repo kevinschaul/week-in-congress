@@ -1,4 +1,24 @@
 /* line 1, ../../sass/base.scss */
 body {
+  margin: 0px auto;
   max-width: 630px;
+  font-family: arial, sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+/* line 9, ../../sass/base.scss */
+.event {
+  margin: 8px 0;
+  padding: 4px 0;
+  border-bottom: 1px dotted #ccc;
+}
+/* line 14, ../../sass/base.scss */
+.event .label {
+  font-weight: bold;
+}
+
+/* line 18, ../../sass/base.scss */
+.event:last-child {
+  border-bottom: none;
 }
