@@ -1,0 +1,779 @@
+[
+    {
+        "documents": [],
+        "end": null,
+        "description": "Lessard-Sams Outdoor Heritage Council - Executive Committee",
+        "created_at": "2014-01-03 00:19:47",
+        "related_bills": [],
+        "when": "2014-01-09 19:30:00",
+        "updated_at": "2014-01-10 02:27:42",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "5 State Office Building",
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "David Hartwell",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Lessard-Sams Outdoor Heritage Council - Executive Committee",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000264",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "MNsure Legislative Oversight Committee",
+        "created_at": "2013-12-18 00:16:16",
+        "related_bills": [],
+        "when": "2014-01-09 19:30:00",
+        "updated_at": "2014-01-10 02:27:42",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "107 State Capitol",
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Rep. Joe Atkins,\u00a0Sen. Tony Lourey",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "MNsure Legislative Oversight Committee",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000258",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Autism Spectrum Disorder Task Force",
+        "state": "mn",
+        "created_at": "2013-10-24 00:33:57",
+        "when": "2014-01-10 00:00:00",
+        "updated_at": "2013-10-24 00:33:57",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Abbie Wells-Herzog",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Autism Spectrum Disorder Task Force",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "session": "2013s1",
+        "location": "300S State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000233",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Lessard-Sams Outdoor Heritage Council",
+        "state": "mn",
+        "created_at": "2014-01-16 02:34:24",
+        "when": "2014-01-16 14:00:00",
+        "updated_at": "2014-01-16 02:34:24",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "David Hartwell",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Lessard-Sams Outdoor Heritage Council",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "session": "2013-2014",
+        "location": "5 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000271",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Lessard-Sams Outdoor Heritage Council",
+        "created_at": "2014-01-03 00:19:47",
+        "related_bills": [],
+        "when": "2014-01-16 14:30:00",
+        "updated_at": "2014-01-10 02:27:42",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "5 State Office Building",
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "David Hartwell",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Lessard-Sams Outdoor Heritage Council",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000263",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Capitol Preservation Commission",
+        "created_at": "2013-12-21 00:15:38",
+        "related_bills": [],
+        "when": "2014-01-21 16:00:00",
+        "updated_at": "2014-01-10 02:27:42",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "The Governor Reception Room",
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Governor Mark Dayton",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Capitol Preservation Commission",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000259",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative Commission on Minnesota Sports Facilities",
+        "created_at": "2013-12-21 00:15:38",
+        "related_bills": [],
+        "when": "2014-01-23 19:00:00",
+        "updated_at": "2014-01-10 02:27:41",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "123 State Capitol",
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Sen. Julie Rosen,\u00a0Sen. Bobby Joe Champion",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Legislative Commission on Minnesota Sports Facilities",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000261",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative Commission on Pensions and Retirement",
+        "created_at": "2013-10-26 00:34:45",
+        "related_bills": [],
+        "when": "2014-01-28 19:00:00",
+        "updated_at": "2014-01-10 02:27:42",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "123 State Capitol",
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Sen. Sandra L. Pappas",
+                "id": "MNL000044",
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Legislative Commission on Pensions and Retirement",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000241",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative Commission on Pensions and Retirement",
+        "created_at": "2013-10-26 00:34:45",
+        "related_bills": [],
+        "when": "2014-01-29 15:00:00",
+        "updated_at": "2014-01-10 02:27:41",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "123 State Capitol",
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Sen. Sandra L. Pappas",
+                "id": "MNL000044",
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Legislative Commission on Pensions and Retirement",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000242",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Autism Spectrum Disorder Task Force",
+        "created_at": "2013-10-24 00:33:57",
+        "related_bills": [],
+        "when": "2014-02-06 19:00:00",
+        "updated_at": "2014-01-10 02:27:41",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "300S State Office Building",
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Abbie Wells-Herzog",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Autism Spectrum Disorder Task Force",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000234",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Mississippi River Parkway Commission",
+        "state": "mn",
+        "created_at": "2014-01-10 02:27:41",
+        "when": "2014-02-06 20:30:00",
+        "updated_at": "2014-01-10 02:27:41",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Representative Sheldon Johnson",
+                "id": "MNL000201",
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Mississippi River Parkway Commission",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "session": "2013-2014",
+        "location": "500S State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000269",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Capitol Preservation Commission",
+        "created_at": "2013-12-21 00:15:38",
+        "related_bills": [],
+        "when": "2014-02-10 16:00:00",
+        "updated_at": "2014-01-10 02:27:41",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "The Governor Reception Room",
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Governor Mark Dayton",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Capitol Preservation Commission",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000260",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative Energy Commission",
+        "state": "mn",
+        "created_at": "2014-01-15 02:37:44",
+        "when": "2014-02-12 21:00:00",
+        "updated_at": "2014-01-15 02:37:44",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Rep. Melissa Hortman,\u00a0Sen. John Marty",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Legislative Energy Commission",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "session": "2013-2014",
+        "location": "10 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000270",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Mississippi River Parkway Commission - Corridor Management Plan Project Subcommittee",
+        "state": "mn",
+        "created_at": "2014-01-10 02:27:41",
+        "when": "2014-02-13 19:30:00",
+        "updated_at": "2014-01-10 02:27:41",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Carol Zoff",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Mississippi River Parkway Commission - Corridor Management Plan Project Subcommittee",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "session": "2013-2014",
+        "location": "300S State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000265",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Autism Spectrum Disorder Task Force",
+        "created_at": "2013-10-24 00:33:57",
+        "related_bills": [],
+        "when": "2014-03-07 00:00:00",
+        "updated_at": "2014-01-10 02:27:41",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "300S State Office Building",
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Abbie Wells-Herzog",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Autism Spectrum Disorder Task Force",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000235",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Autism Spectrum Disorder Task Force",
+        "created_at": "2013-10-24 00:33:57",
+        "related_bills": [],
+        "when": "2014-04-03 18:00:00",
+        "updated_at": "2014-01-10 02:27:41",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "300S State Office Building",
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Abbie Wells-Herzog",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Autism Spectrum Disorder Task Force",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000236",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Autism Spectrum Disorder Task Force",
+        "created_at": "2013-10-24 00:33:57",
+        "related_bills": [],
+        "when": "2014-05-01 23:00:00",
+        "updated_at": "2014-01-10 02:27:42",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "300S State Office Building",
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Abbie Wells-Herzog",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Autism Spectrum Disorder Task Force",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000237",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Mississippi River Parkway Commission",
+        "state": "mn",
+        "created_at": "2014-01-10 02:27:41",
+        "when": "2014-05-15 19:30:00",
+        "updated_at": "2014-01-10 02:27:41",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Representative Sheldon Johnson",
+                "id": "MNL000201",
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Mississippi River Parkway Commission",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "session": "2013-2014",
+        "location": "500S State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000266",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Autism Spectrum Disorder Task Force",
+        "created_at": "2013-10-24 00:33:57",
+        "related_bills": [],
+        "when": "2014-06-05 18:00:00",
+        "updated_at": "2014-01-10 02:27:41",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "300S State Office Building",
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Abbie Wells-Herzog",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Autism Spectrum Disorder Task Force",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000238",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Mississippi River Parkway Commission",
+        "state": "mn",
+        "created_at": "2014-01-10 02:27:41",
+        "when": "2014-08-28 19:30:00",
+        "updated_at": "2014-01-10 02:27:41",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Representative Sheldon Johnson",
+                "id": "MNL000201",
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Mississippi River Parkway Commission",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "session": "2013-2014",
+        "location": "500S State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000268",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Mississippi River Parkway Commission",
+        "state": "mn",
+        "created_at": "2014-01-10 02:27:41",
+        "when": "2014-11-20 20:30:00",
+        "updated_at": "2014-01-10 02:27:41",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Representative Sheldon Johnson",
+                "id": "MNL000201",
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Mississippi River Parkway Commission",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "session": "2013-2014",
+        "location": "500S State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000267",
+        "+chamber": "other"
+    }
+]

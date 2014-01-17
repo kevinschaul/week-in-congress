@@ -33,7 +33,7 @@ var graphic = {
 
     _.each(data, function(d) {
       console.log(d);
-      d.whenMoment = moment(d.when);
+      d.whenMoment = moment.unix(d.when - 6 * 60 * 60);
     });
 
     var now = moment();
