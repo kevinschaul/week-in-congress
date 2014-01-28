@@ -12,11 +12,6 @@ def main():
 
     try:
         events.main()
-    except Exception as e:
-        logging.error(e)
-        exitStatus = 1
-
-    try:
         upload.upload(
             os.path.join(
                 os.environ['WEEK_IN_CONGRESS_LOCATION'],
