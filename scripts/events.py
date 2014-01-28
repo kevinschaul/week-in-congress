@@ -1,13 +1,13 @@
 #!/usr/bin/env python
 
-import simplejson as json
+import json
 
 from sunlight import openstates
 
 def main():
 
     events = openstates.events(state='mn')
-    print json.dumps(events, indent = ' ' * 4)
+    print json.dumps(events)
 
 if __name__ == '__main__':
     main()
