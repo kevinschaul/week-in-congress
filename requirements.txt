@@ -1,0 +1,5 @@
+boto==2.23.0
+clint==0.3.1
+simplejson==3.3.2
+sunlight==1.2.4
+wsgiref==0.1.2
