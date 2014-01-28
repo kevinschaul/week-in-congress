@@ -16,8 +16,7 @@ clean:
 
 install:
 	virtualenv venv
-	. venv/bin/activate
-	pip install -r requirements.txt
+	. venv/bin/activate; pip install -r requirements.txt
 	touch week-in-congress.log
 	cp scripts/settings.example.py scripts/settings.py
 	echo 'Please enter secrets into scripts/settings.py'
