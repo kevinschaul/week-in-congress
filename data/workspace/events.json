@@ -1,0 +1,1793 @@
+[
+    {
+        "documents": [],
+        "end": null,
+        "description": "Capitol Preservation Commission",
+        "state": "mn",
+        "+agenda": "Approval of Work Packages #2 and #2A;",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-01-21 22:00:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "The Governor Reception Room",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000275"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Select Committee on Living Wage Jobs",
+        "state": "mn",
+        "+agenda": "The committee will hear public testimony answering the question, \"How is Minnesota\u2019s economy working for you?\"",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-01-22 22:00:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "Local 49 Training Center, 40276 Fishtail Road, Hinckley",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000299"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative Commission on Minnesota Sports Facilities",
+        "created_at": "2013-12-21 00:15:38",
+        "related_bills": [],
+        "when": "2014-01-23 19:00:00",
+        "updated_at": "2014-01-10 02:27:41",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "123 State Capitol",
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Sen. Julie Rosen,\u00a0Sen. Bobby Joe Champion",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Legislative Commission on Minnesota Sports Facilities",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000261",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative Commission on Minnesota Sports Facilities",
+        "state": "mn",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-01-24 01:00:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "123 State Capitol",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000295"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "State Government Finance and Veterans Affairs",
+        "state": "mn",
+        "+agenda": "General discussion of agency bonding requests",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-01-28 00:30:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "200 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000277"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative Commission on Pensions and Retirement",
+        "created_at": "2013-10-26 00:34:45",
+        "related_bills": [],
+        "when": "2014-01-28 19:00:00",
+        "updated_at": "2014-01-10 02:27:42",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "123 State Capitol",
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Sen. Sandra L. Pappas",
+                "id": "MNL000044",
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Legislative Commission on Pensions and Retirement",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000241",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Environment, Natural Resources, and Agriculture Finance",
+        "state": "mn",
+        "+agenda": "Roundup Ready Resistance",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-01-28 20:15:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "5 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000297"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Civil Law",
+        "state": "mn",
+        "+agenda": "TBA",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-01-28 22:00:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "10 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000308"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Elections",
+        "type": "committee:meeting",
+        "created_at": "2014-01-22 02:33:02",
+        "related_bills": [],
+        "when": "2014-01-29 00:30:00",
+        "updated_at": "2014-01-27 23:30:44",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "Basement State Office Building",
+        "participants": [],
+        "timezone": "America/Chicago",
+        "+agenda": "Informational Hearing",
+        "id": "MNE00000286"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative Commission on Pensions and Retirement",
+        "state": "mn",
+        "+agenda": "TWO-DAY AGENDA (NOTE: Items may be taken out of order):",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-01-29 01:00:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "123 State Capitol",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000278"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Health and Human Services Policy",
+        "state": "mn",
+        "+agenda": "To be announced",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-01-29 02:15:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "200 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000274"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Environment and  Natural Resources Policy",
+        "state": "mn",
+        "+agenda": "Informational Hearing on",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-01-29 04:00:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "200 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000287"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative Commission on Pensions and Retirement",
+        "created_at": "2013-10-26 00:34:45",
+        "related_bills": [],
+        "when": "2014-01-29 15:00:00",
+        "updated_at": "2014-01-10 02:27:41",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "123 State Capitol",
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Sen. Sandra L. Pappas",
+                "id": "MNL000044",
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Legislative Commission on Pensions and Retirement",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000242",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative Commission on Pensions and Retirement",
+        "state": "mn",
+        "+agenda": "(NOTE: Items may be taken out of order):",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-01-29 21:00:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "123 State Capitol",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000296"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Select Committee on Controlled Substances and Synthetic Drugs",
+        "state": "mn",
+        "+agenda": "TBA",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-01-29 22:00:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "10 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000300"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Health and Human Services Finance",
+        "type": "committee:meeting",
+        "created_at": "2014-01-22 02:33:02",
+        "related_bills": [],
+        "when": "2014-01-29 22:00:00",
+        "updated_at": "2014-01-27 23:30:44",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "200 State Office Building",
+        "participants": [],
+        "timezone": "America/Chicago",
+        "+agenda": "Dept. of Human Services (DHS) and Dept. of Health (MDH) Presentation on State Innovation Model (SIM) grants",
+        "id": "MNE00000298"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Housing Finance and Policy",
+        "created_at": "2014-01-22 02:33:02",
+        "related_bills": [],
+        "when": "2014-01-30 00:30:00",
+        "updated_at": "2014-01-23 02:35:20",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "10 State Office Building",
+        "participants": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000289"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "State Government Finance and Veterans Affairs",
+        "type": "committee:meeting",
+        "created_at": "2014-01-22 02:33:02",
+        "related_bills": [],
+        "when": "2014-01-30 00:30:00",
+        "updated_at": "2014-01-23 02:35:20",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "200 State Office Building",
+        "participants": [],
+        "timezone": "America/Chicago",
+        "+agenda": "Complete agenda from the 1/27 meeting (if necessary)",
+        "id": "MNE00000279"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Health and Human Services Policy",
+        "state": "mn",
+        "+agenda": "To be announced",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-01-30 02:15:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "200 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000285"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Capital Investment",
+        "state": "mn",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-01-30 20:15:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "Tour of U of M - St. Paul campus",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000306"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Electronic Roster Task Force",
+        "state": "mn",
+        "+agenda": "Approval of final report and draft legislation",
+        "created_at": "2014-01-27 23:30:44",
+        "when": "2014-01-30 22:00:00",
+        "updated_at": "2014-01-27 23:30:44",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "300S State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000319"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Autism Spectrum Disorder Task Force",
+        "created_at": "2013-10-24 00:33:57",
+        "related_bills": [],
+        "when": "2014-02-06 19:00:00",
+        "updated_at": "2014-01-10 02:27:41",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "300S State Office Building",
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Abbie Wells-Herzog",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Autism Spectrum Disorder Task Force",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000234",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Mississippi River Parkway Commission",
+        "state": "mn",
+        "created_at": "2014-01-10 02:27:41",
+        "when": "2014-02-06 20:30:00",
+        "updated_at": "2014-01-10 02:27:41",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Representative Sheldon Johnson",
+                "id": "MNL000201",
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Mississippi River Parkway Commission",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "session": "2013-2014",
+        "location": "500S State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000269",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Autism Spectrum Disorder Task Force",
+        "state": "mn",
+        "+agenda": "To be announced.",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-02-07 01:00:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "300S State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000293"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Mississippi River Parkway Commission",
+        "state": "mn",
+        "+agenda": "TBD",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-02-07 02:30:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "500S State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000301"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Capitol Preservation Commission",
+        "created_at": "2013-12-21 00:15:38",
+        "related_bills": [],
+        "when": "2014-02-10 16:00:00",
+        "updated_at": "2014-01-10 02:27:41",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "The Governor Reception Room",
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Governor Mark Dayton",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Capitol Preservation Commission",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000260",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Capitol Preservation Commission",
+        "state": "mn",
+        "+agenda": "Design Development package approval",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-02-10 22:00:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "The Governor Reception Room",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000282"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Transportation Finance",
+        "state": "mn",
+        "+agenda": "TBA",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-02-10 22:00:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "10 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000302"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Transportation Policy",
+        "state": "mn",
+        "+agenda": "TBA",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-02-11 02:00:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "10 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000288"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Environment, Natural Resources, and Agriculture Finance",
+        "state": "mn",
+        "+agenda": "Financial Assurance and Polymet",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-02-12 00:30:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "5 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000292"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative Energy Commission",
+        "state": "mn",
+        "created_at": "2014-01-15 02:37:44",
+        "when": "2014-02-12 21:00:00",
+        "updated_at": "2014-01-15 02:37:44",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Rep. Melissa Hortman,\u00a0Sen. John Marty",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Legislative Energy Commission",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "session": "2013-2014",
+        "location": "10 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000270",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Environment, Natural Resources, and Agriculture Finance",
+        "state": "mn",
+        "+agenda": "LSOHC Bill Overview",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-02-12 21:00:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "5 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000290"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "MNsure Legislative Oversight Committee",
+        "state": "mn",
+        "+agenda": "To  be determined",
+        "created_at": "2014-01-27 23:30:44",
+        "when": "2014-02-12 21:30:00",
+        "updated_at": "2014-01-27 23:30:44",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "To be determined",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000323"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative Energy Commission",
+        "state": "mn",
+        "+agenda": "The Department of Commerce and Rocky Mountain Institute will present on the energy future study scoping report and other recent Commerce reports",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-02-13 03:00:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "10 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000281"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Lessard-Sams Outdoor Heritage Council",
+        "state": "mn",
+        "created_at": "2014-01-19 02:37:12",
+        "when": "2014-02-13 14:00:00",
+        "updated_at": "2014-01-19 02:37:12",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "David Hartwell",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Lessard-Sams Outdoor Heritage Council",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "session": "2013-2014",
+        "location": "5 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000272",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Mississippi River Parkway Commission - Corridor Management Plan Project Subcommittee",
+        "state": "mn",
+        "created_at": "2014-01-19 02:37:12",
+        "when": "2014-02-13 19:00:00",
+        "updated_at": "2014-01-19 02:37:12",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Carol Zoff",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Mississippi River Parkway Commission - Corridor Management Plan Project Subcommittee",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "session": "2013-2014",
+        "location": "300S State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000273",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Mississippi River Parkway Commission - Corridor Management Plan Project Subcommittee",
+        "state": "mn",
+        "created_at": "2014-01-10 02:27:41",
+        "when": "2014-02-13 19:30:00",
+        "updated_at": "2014-01-10 02:27:41",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Carol Zoff",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Mississippi River Parkway Commission - Corridor Management Plan Project Subcommittee",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "session": "2013-2014",
+        "location": "300S State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000265",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Lessard-Sams Outdoor Heritage Council",
+        "state": "mn",
+        "+agenda": "to be determined",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-02-13 20:00:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "5 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000284"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Mississippi River Parkway Commission - Corridor Management Plan Project Subcommittee",
+        "state": "mn",
+        "+agenda": "Corridor Management Plan RFP Informational Meeting",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-02-14 01:00:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "300S State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000303"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Expungement Working Group",
+        "state": "mn",
+        "+agenda": "TBA",
+        "created_at": "2014-01-27 23:30:44",
+        "when": "2014-02-17 22:00:00",
+        "updated_at": "2014-01-27 23:30:44",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "200 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000315"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Education Policy",
+        "state": "mn",
+        "+agenda": "Supporting Our English Learners in a Changing Minnesota.",
+        "created_at": "2014-01-27 23:30:44",
+        "when": "2014-02-19 00:00:00",
+        "updated_at": "2014-01-27 23:30:44",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "State Capitol Building, Room 123",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000314"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Transportation Finance",
+        "state": "mn",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-02-19 01:00:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "15 State Capitol",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000291"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Autism Spectrum Disorder Task Force",
+        "created_at": "2013-10-24 00:33:57",
+        "related_bills": [],
+        "when": "2014-03-07 00:00:00",
+        "updated_at": "2014-01-10 02:27:41",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "300S State Office Building",
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Abbie Wells-Herzog",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Autism Spectrum Disorder Task Force",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000235",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Autism Spectrum Disorder Task Force",
+        "state": "mn",
+        "+agenda": "To be announced.",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-03-07 06:00:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "300S State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000280"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Autism Spectrum Disorder Task Force",
+        "created_at": "2013-10-24 00:33:57",
+        "related_bills": [],
+        "when": "2014-04-03 18:00:00",
+        "updated_at": "2014-01-10 02:27:41",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "300S State Office Building",
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Abbie Wells-Herzog",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Autism Spectrum Disorder Task Force",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000236",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Autism Spectrum Disorder Task Force",
+        "state": "mn",
+        "+agenda": "To be announced.",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-04-03 23:00:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "300S State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000283"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Autism Spectrum Disorder Task Force",
+        "created_at": "2013-10-24 00:33:57",
+        "related_bills": [],
+        "when": "2014-05-01 23:00:00",
+        "updated_at": "2014-01-10 02:27:42",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "300S State Office Building",
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Abbie Wells-Herzog",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Autism Spectrum Disorder Task Force",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000237",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Autism Spectrum Disorder Task Force",
+        "state": "mn",
+        "+agenda": "To be announced.",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-05-02 04:00:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "300S State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000307"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Mississippi River Parkway Commission",
+        "state": "mn",
+        "created_at": "2014-01-10 02:27:41",
+        "when": "2014-05-15 19:30:00",
+        "updated_at": "2014-01-10 02:27:41",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Representative Sheldon Johnson",
+                "id": "MNL000201",
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Mississippi River Parkway Commission",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "session": "2013-2014",
+        "location": "500S State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000266",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Mississippi River Parkway Commission",
+        "state": "mn",
+        "+agenda": "TBD",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-05-16 00:30:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "500S State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000305"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative-Citizen Commission on Minnesota Resources",
+        "state": "mn",
+        "+agenda": "TBA",
+        "created_at": "2014-01-27 23:30:44",
+        "when": "2014-06-04 19:00:00",
+        "updated_at": "2014-01-27 23:30:44",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "5 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000311"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Autism Spectrum Disorder Task Force",
+        "created_at": "2013-10-24 00:33:57",
+        "related_bills": [],
+        "when": "2014-06-05 18:00:00",
+        "updated_at": "2014-01-10 02:27:41",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "state": "mn",
+        "session": "2013-2014",
+        "location": "300S State Office Building",
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Abbie Wells-Herzog",
+                "id": null,
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Autism Spectrum Disorder Task Force",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000238",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Autism Spectrum Disorder Task Force",
+        "state": "mn",
+        "+agenda": "To be announced.",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-06-05 23:00:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "300S State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000304"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative-Citizen Commission on Minnesota Resources",
+        "state": "mn",
+        "+agenda": "TBA",
+        "created_at": "2014-01-27 23:30:44",
+        "when": "2014-06-10 19:00:00",
+        "updated_at": "2014-01-27 23:30:44",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "5 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000324"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative-Citizen Commission on Minnesota Resources",
+        "state": "mn",
+        "+agenda": "TBA",
+        "created_at": "2014-01-27 23:30:44",
+        "when": "2014-06-11 19:00:00",
+        "updated_at": "2014-01-27 23:30:44",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "5 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000322"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative-Citizen Commission on Minnesota Resources",
+        "state": "mn",
+        "+agenda": "TBA",
+        "created_at": "2014-01-27 23:30:44",
+        "when": "2014-06-17 18:30:00",
+        "updated_at": "2014-01-27 23:30:44",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "200 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000309"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative-Citizen Commission on Minnesota Resources",
+        "state": "mn",
+        "+agenda": "TBA",
+        "created_at": "2014-01-27 23:30:44",
+        "when": "2014-06-18 18:30:00",
+        "updated_at": "2014-01-27 23:30:44",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "5 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000321"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative-Citizen Commission on Minnesota Resources",
+        "state": "mn",
+        "+agenda": "TBA",
+        "created_at": "2014-01-27 23:30:44",
+        "when": "2014-06-19 18:30:00",
+        "updated_at": "2014-01-27 23:30:44",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "5 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000313"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative-Citizen Commission on Minnesota Resources",
+        "state": "mn",
+        "+agenda": "TBA",
+        "created_at": "2014-01-27 23:30:44",
+        "when": "2014-06-24 18:30:00",
+        "updated_at": "2014-01-27 23:30:44",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "5 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000312"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative-Citizen Commission on Minnesota Resources",
+        "state": "mn",
+        "+agenda": "TBA",
+        "created_at": "2014-01-27 23:30:44",
+        "when": "2014-06-25 18:30:00",
+        "updated_at": "2014-01-27 23:30:44",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "5 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000326"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative-Citizen Commission on Minnesota Resources",
+        "state": "mn",
+        "+agenda": "TBA",
+        "created_at": "2014-01-27 23:30:44",
+        "when": "2014-06-26 18:30:00",
+        "updated_at": "2014-01-27 23:30:44",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "5 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000310"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative-Citizen Commission on Minnesota Resources",
+        "state": "mn",
+        "+agenda": "TBA",
+        "created_at": "2014-01-27 23:30:44",
+        "when": "2014-07-08 19:00:00",
+        "updated_at": "2014-01-27 23:30:44",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "5 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000318"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative-Citizen Commission on Minnesota Resources",
+        "state": "mn",
+        "+agenda": "TBA",
+        "created_at": "2014-01-27 23:30:44",
+        "when": "2014-07-09 19:00:00",
+        "updated_at": "2014-01-27 23:30:44",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "5 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000317"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Mississippi River Parkway Commission",
+        "state": "mn",
+        "created_at": "2014-01-10 02:27:41",
+        "when": "2014-08-28 19:30:00",
+        "updated_at": "2014-01-10 02:27:41",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Representative Sheldon Johnson",
+                "id": "MNL000201",
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Mississippi River Parkway Commission",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "session": "2013-2014",
+        "location": "500S State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000268",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Mississippi River Parkway Commission",
+        "state": "mn",
+        "+agenda": "TBD",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-08-29 00:30:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "500S State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000294"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative-Citizen Commission on Minnesota Resources",
+        "state": "mn",
+        "+agenda": "TBA",
+        "created_at": "2014-01-27 23:30:44",
+        "when": "2014-11-19 21:00:00",
+        "updated_at": "2014-01-27 23:30:44",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "5 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000325"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Mississippi River Parkway Commission",
+        "state": "mn",
+        "created_at": "2014-01-10 02:27:41",
+        "when": "2014-11-20 20:30:00",
+        "updated_at": "2014-01-10 02:27:41",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [
+            {
+                "chamber": "other",
+                "participant_type": "legislator",
+                "participant": "Representative Sheldon Johnson",
+                "id": "MNL000201",
+                "type": "chair"
+            },
+            {
+                "chamber": "other",
+                "participant_type": "committee",
+                "participant": "Mississippi River Parkway Commission",
+                "id": null,
+                "type": "host"
+            }
+        ],
+        "session": "2013-2014",
+        "location": "500S State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000267",
+        "+chamber": "other"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Mississippi River Parkway Commission",
+        "state": "mn",
+        "+agenda": "TBD",
+        "created_at": "2014-01-22 02:33:02",
+        "when": "2014-11-21 02:30:00",
+        "updated_at": "2014-01-22 02:33:02",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "500S State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000276"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative-Citizen Commission on Minnesota Resources",
+        "state": "mn",
+        "+agenda": "TBA",
+        "created_at": "2014-01-27 23:30:44",
+        "when": "2014-12-09 21:00:00",
+        "updated_at": "2014-01-27 23:30:44",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "5 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000320"
+    },
+    {
+        "documents": [],
+        "end": null,
+        "description": "Legislative-Citizen Commission on Minnesota Resources",
+        "state": "mn",
+        "+agenda": "TBA",
+        "created_at": "2014-01-27 23:30:44",
+        "when": "2014-12-16 21:00:00",
+        "updated_at": "2014-01-27 23:30:44",
+        "sources": [
+            {
+                "url": "http://www.leg.state.mn.us/calendarday.aspx?jday=all"
+            }
+        ],
+        "participants": [],
+        "session": "2013-2014",
+        "location": "5 State Office Building",
+        "related_bills": [],
+        "timezone": "America/Chicago",
+        "type": "committee:meeting",
+        "id": "MNE00000316"
+    }
+]

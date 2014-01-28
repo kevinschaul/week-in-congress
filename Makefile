@@ -1,3 +1,5 @@
+WEEK_IN_CONGRESS_LOCATION = $(shell pwd)
+
 GENERATED_FILES = \
 	public/events.json
 
@@ -11,6 +13,24 @@ all: $(GENERATED_FILES) $(LIBRARY_FILES)
 clean:
 	rm -rf build
 	rm -rf $(GENERATED_FILES) $(LIBRARY_FILES)
+
+install:
+	virtualenv venv
+	source venv/bin/activate
+	pip install -r requirements.txt
+	deactivate
+	touch week-in-congress.log
+	cp scripts/settings.example.py scripts/settings.py
+	echo 'Please enter secrets into scripts/settings.py'
+
+start:
+	export WEEK_IN_CONGRESS_LOCATION=$(WEEK_IN_CONGRESS_LOCATION)
+	echo 'WEEK_IN_CONGRESS_LOCATION=$(WEEK_IN_CONGRESS_LOCATION)' > week-in-congress-cron
+	echo '*/5 * * * * $(WEEK_IN_CONGRESS_LOCATION)/venv/bin/python $(WEEK_IN_CONGRESS_LOCATION)/scripts/run.py' >> week-in-congress-cron
+	cp week-in-congress-cron /etc/cron.d/
+
+log:
+	tail -f week-in-congress.log
 
 public/lib/underscore-min.js:
 	curl http://underscorejs.org/underscore-min.js -o $@
