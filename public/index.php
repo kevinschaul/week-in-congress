@@ -13,8 +13,8 @@
 <% _.each(data, function(d) { %>
   <div class='event'>
     <span class='label'>What:</span> <%= d.description %> </br>
-    <span class='label'>When:</span> <%= d.whenMoment.calendar() %> </br>
-    <% if (d.agenda) { %><span class='label'>Agenda:</span> <%= d.agenda %> </br><% } %>
+    <span class='label'>When:</span> <%= d.whenMoment.local().calendar() %> </br>
+    <% if (d['+agenda']) { %><span class='label'>Agenda:</span> <%= d['+agenda'] %> </br><% } %>
   </div>
 <% }); %>
 </script>

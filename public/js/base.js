@@ -22,7 +22,7 @@ var graphic = {
   getEvents: function() {
     var self = this;
 
-    var url = 'events.json';
+    var url = 'http://s3.amazonaws.com/startribune/2014-week-in-congress/events.json';
     $.getJSON(url, function(data) {
       self.formatEvents(data);
     });
@@ -32,14 +32,13 @@ var graphic = {
     var self = this;
 
     _.each(data, function(d) {
-      console.log(d);
-      d.whenMoment = moment.unix(d.when - 6 * 60 * 60);
+      d.whenMoment = moment.utc(d.when);
     });
 
     var now = moment();
-    var weekFromNow = now.add('days', 7);
+    var weekFromNow = moment().add('days', 7);
     data = _.filter(data, function(d) {
-      return d.whenMoment <= weekFromNow;
+      return d.whenMoment >= now && d.whenMoment <= weekFromNow;
     });
 
     data = _.sortBy(data, function(d) {
