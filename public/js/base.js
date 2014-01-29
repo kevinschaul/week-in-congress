@@ -42,9 +42,8 @@ var graphic = {
     });
 
     var now = moment();
-    var weekFromNow = moment().add('days', 14); // TODO
     data = _.filter(data, function(d) {
-      return d.whenMoment >= now && d.whenMoment <= weekFromNow;
+      return d.whenMoment >= now;
     });
 
     data = _.sortBy(data, function(d) {
