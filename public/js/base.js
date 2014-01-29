@@ -1,6 +1,6 @@
 (function($) {
 
-var graphic = {
+window.WeekInCongress = {
 
   init: function(args) {
     var self = this;
@@ -79,12 +79,6 @@ var graphic = {
     self.$targetEvents.append(self.templateEvent({ event: event }));
   }
 };
-
-$(document).ready(function() {
-  var g = graphic.init({
-    height: 347
-  });
-});
 
 })(jQuery);
 

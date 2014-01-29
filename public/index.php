@@ -24,6 +24,13 @@
 <script src="lib/underscore-min.js" type="text/javascript" charset="utf-8"></script>
 <script src="lib/moment.min.js" type="text/javascript" charset="utf-8"></script>
 <script src="js/base.js" type="text/javascript" charset="utf-8"></script>
+<script>
+$(document).ready(function() {
+  var w = WeekInCongress.init({
+    height: 347
+  });
+});
+</script>
 </body>
 </html>
 
