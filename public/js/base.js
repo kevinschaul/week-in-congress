@@ -5,9 +5,11 @@ var graphic = {
   init: function(args) {
     var self = this;
 
+    self.height = 400;
     if ('height' in args) {
       self.height = args['height'];
     }
+
     $.support.cors = true;
 
     self.initTemplate();
@@ -17,6 +19,7 @@ var graphic = {
   initTemplate: function() {
     var self = this;
 
+    self.$eventsWrapper = $('#events-wrapper');
     self.$templateEvent = $('#template-event');
     self.$targetEvents = $('#target-events');
     self.templateEvent = _.template(self.$templateEvent.html());
@@ -39,7 +42,7 @@ var graphic = {
     });
 
     var now = moment();
-    var weekFromNow = moment().add('days', 7);
+    var weekFromNow = moment().add('days', 14); // TODO
     data = _.filter(data, function(d) {
       return d.whenMoment >= now && d.whenMoment <= weekFromNow;
     });
@@ -48,8 +51,26 @@ var graphic = {
       return d.whenMoment;
     });
 
+    self.$targetEvents.html('');
+    var overflow = false;
     _.each(data, function(d) {
-      self.addEvent(d);
+
+      var height = self.$eventsWrapper.height();
+      if (height >= self.height) {
+        overflow = true;
+      }
+
+      if (!overflow) {
+        self.addEvent(d);
+      }
+    });
+
+    // Remove last div which caused the overflow
+    self.$targetEvents.children('div.event').last().remove();
+
+    self.$eventsWrapper.css({
+      'height': self.height,
+      'overflow': 'hidden'
     });
   },
 

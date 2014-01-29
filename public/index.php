@@ -8,7 +8,10 @@
 </head>
 <body>
 
-<div id='target-events'></div>
+<div id='events-wrapper'>
+  <div id='target-events'>Loading ...</div>
+  <a target='_blank' href='http://www.leg.state.mn.us/calendarday.aspx?jday=all'>View more events</a>
+</div>
 <script id='template-event' type='text/template'>
   <div class='event'>
     <span class='label'>What:</span> <%= event.description %> </br>
