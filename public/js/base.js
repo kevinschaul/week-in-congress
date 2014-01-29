@@ -1,11 +1,13 @@
 (function($) {
 
-window.WeekInCongress = {
+var WeekInCongress = {
 
   init: function(args) {
     var self = this;
 
-    self.height = 400;
+    var args = args || self.getURLParameters(window.location.toString());
+
+    self.height = Math.infinity;
     if ('height' in args) {
       self.height = args['height'];
     }
@@ -77,8 +79,26 @@ window.WeekInCongress = {
     var self = this;
 
     self.$targetEvents.append(self.templateEvent({ event: event }));
+  },
+
+  getURLParameters: function(url) {
+    // http://stackoverflow.com/questions/5073859/jquery-how-to-get-parameters-of-a-url
+    var result = {};
+    var searchIndex = url.indexOf("?");
+    if (searchIndex == -1 ) return result;
+    var sPageURL = url.substring(searchIndex +1);
+    var sURLVariables = sPageURL.split('&');
+    for (var i = 0; i < sURLVariables.length; i++) {
+        var sParameterName = sURLVariables[i].split('=');
+        result[sParameterName[0]] = sParameterName[1];
+    }
+    return result;
   }
 };
+
+$(document).ready(function() {
+  var w = WeekInCongress.init();
+});
 
 })(jQuery);
 
