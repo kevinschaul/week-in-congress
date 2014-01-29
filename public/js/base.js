@@ -2,9 +2,12 @@
 
 var graphic = {
 
-  init: function() {
+  init: function(args) {
     var self = this;
 
+    if ('height' in args) {
+      self.height = args['height'];
+    }
     $.support.cors = true;
 
     self.initTemplate();
@@ -14,9 +17,9 @@ var graphic = {
   initTemplate: function() {
     var self = this;
 
-    self.$templateEvents = $('#template-events');
+    self.$templateEvent = $('#template-event');
     self.$targetEvents = $('#target-events');
-    self.templateEvents = _.template(self.$templateEvents.html());
+    self.templateEvent = _.template(self.$templateEvent.html());
   },
 
   getEvents: function() {
@@ -45,19 +48,22 @@ var graphic = {
       return d.whenMoment;
     });
 
-    var templateData = {data: data};
-    self.runTemplate(templateData);
+    _.each(data, function(d) {
+      self.addEvent(d);
+    });
   },
 
-  runTemplate: function(data) {
+  addEvent: function(event) {
     var self = this;
 
-    self.$targetEvents.html(self.templateEvents(data));
+    self.$targetEvents.append(self.templateEvent({ event: event }));
   }
 };
 
 $(document).ready(function() {
-  var g = graphic.init();
+  var g = graphic.init({
+    height: 347
+  });
 });
 
 })(jQuery);

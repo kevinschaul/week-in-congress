@@ -9,14 +9,12 @@
 <body>
 
 <div id='target-events'></div>
-<script id='template-events' type='text/template'>
-<% _.each(data, function(d) { %>
+<script id='template-event' type='text/template'>
   <div class='event'>
-    <span class='label'>What:</span> <%= d.description %> </br>
-    <span class='label'>When:</span> <%= d.whenMoment.local().calendar() %> </br>
-    <% if (d['+agenda']) { %><span class='label'>Agenda:</span> <%= d['+agenda'] %> </br><% } %>
+    <span class='label'>What:</span> <%= event.description %> </br>
+    <span class='label'>When:</span> <%= event.whenMoment.local().calendar() %> </br>
+    <% if (event['+agenda']) { %><span class='label'>Agenda:</span> <%= event['+agenda'] %> </br><% } %>
   </div>
-<% }); %>
 </script>
 
 <script src="lib/jquery-1.10.2.min.js" type="text/javascript" charset="utf-8"></script>
