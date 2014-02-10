@@ -21,7 +21,7 @@ To install:
 
 To start scraper:
 
-    make start
+    sudo make start
 
 The scraper will add a cron job to get the latest events every day.
 
@@ -40,6 +40,4 @@ To view locally using a php server:
 To compile Compass/Sass:
 
     grunt compass
-
-
 
