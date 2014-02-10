@@ -23,7 +23,7 @@ install:
 
 start:
 	export WEEK_IN_CONGRESS_LOCATION=$(WEEK_IN_CONGRESS_LOCATION)
-	echo 'WEEK_IN_CONGRESS_LOCATION=$(WEEK_IN_CONGRESS_LOCATION)' > week-in-congress-cron
+	echo 'export WEEK_IN_CONGRESS_LOCATION=$(WEEK_IN_CONGRESS_LOCATION)' > week-in-congress-cron
 	echo '*/5 * * * * $(WEEK_IN_CONGRESS_LOCATION)/venv/bin/python $(WEEK_IN_CONGRESS_LOCATION)/scripts/run.py' >> week-in-congress-cron
 	cp week-in-congress-cron /etc/cron.d/
 
