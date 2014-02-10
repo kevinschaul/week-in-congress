@@ -3,10 +3,12 @@
 import os
 
 import simplejson as json
+from sunlight import config, openstates
 
-from sunlight import openstates
+import settings
 
 def main():
+    config.API_KEY = settings.SUNLIGHT_API_KEY
     events = openstates.events(state='mn')
     filename = os.path.join(
         os.environ['WEEK_IN_CONGRESS_LOCATION'],
