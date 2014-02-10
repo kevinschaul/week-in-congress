@@ -1,9 +1,16 @@
 (function($) {
 
-var graphic = {
+var WeekInCongress = {
 
-  init: function() {
+  init: function(args) {
     var self = this;
+
+    var args = args || self.getURLParameters(window.location.toString());
+
+    self.height = Math.infinity;
+    if ('height' in args) {
+      self.height = args['height'];
+    }
 
     $.support.cors = true;
 
@@ -14,9 +21,10 @@ var graphic = {
   initTemplate: function() {
     var self = this;
 
-    self.$templateEvents = $('#template-events');
+    self.$eventsWrapper = $('#events-wrapper');
+    self.$templateEvent = $('#template-event');
     self.$targetEvents = $('#target-events');
-    self.templateEvents = _.template(self.$templateEvents.html());
+    self.templateEvent = _.template(self.$templateEvent.html());
   },
 
   getEvents: function() {
@@ -36,28 +44,60 @@ var graphic = {
     });
 
     var now = moment();
-    var weekFromNow = moment().add('days', 7);
     data = _.filter(data, function(d) {
-      return d.whenMoment >= now && d.whenMoment <= weekFromNow;
+      return d.whenMoment >= now;
     });
 
     data = _.sortBy(data, function(d) {
       return d.whenMoment;
     });
 
-    var templateData = {data: data};
-    self.runTemplate(templateData);
+    self.$targetEvents.html('');
+    var overflow = false;
+    _.each(data, function(d) {
+
+      var height = self.$eventsWrapper.height();
+      if (height >= self.height) {
+        overflow = true;
+      }
+
+      if (!overflow) {
+        self.addEvent(d);
+      }
+    });
+
+    // Remove last div which caused the overflow
+    self.$targetEvents.children('div.event').last().remove();
+
+    self.$eventsWrapper.css({
+      'height': self.height,
+      'overflow': 'hidden'
+    });
   },
 
-  runTemplate: function(data) {
+  addEvent: function(event) {
     var self = this;
 
-    self.$targetEvents.html(self.templateEvents(data));
+    self.$targetEvents.append(self.templateEvent({ event: event }));
+  },
+
+  getURLParameters: function(url) {
+    // http://stackoverflow.com/questions/5073859/jquery-how-to-get-parameters-of-a-url
+    var result = {};
+    var searchIndex = url.indexOf("?");
+    if (searchIndex == -1 ) return result;
+    var sPageURL = url.substring(searchIndex +1);
+    var sURLVariables = sPageURL.split('&');
+    for (var i = 0; i < sURLVariables.length; i++) {
+        var sParameterName = sURLVariables[i].split('=');
+        result[sParameterName[0]] = sParameterName[1];
+    }
+    return result;
   }
 };
 
 $(document).ready(function() {
-  var g = graphic.init();
+  var w = WeekInCongress.init();
 });
 
 })(jQuery);
