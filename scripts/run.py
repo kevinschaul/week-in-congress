@@ -21,6 +21,7 @@ def main():
             ),
             'events.json'
         )
+        logging.info('Successfull uploaded events.json')
     except Exception as e:
         logging.error(e)
         exitStatus = 1

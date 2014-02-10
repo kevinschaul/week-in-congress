@@ -18,6 +18,7 @@ def main():
     )
     with open(filename, 'w') as f:
         f.write(json.dumps(events, indent = 4 * ' '))
+        logging.info('Successfull wrote events.json')
 
 if __name__ == '__main__':
     main()
